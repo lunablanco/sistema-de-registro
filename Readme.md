@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner: 
 
 Install app
+
+Sistema de registro 2
